@@ -554,6 +554,7 @@ left: 15%;
     align-items: center;
     padding: 10px 0px;
     margin-top: 70px;
+    box-shadow: 0px 4px 16px 0px #00000026;
 }
 .email-wrap{
     width: 65%;
